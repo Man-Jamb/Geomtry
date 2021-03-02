@@ -1,0 +1,9 @@
+E:\github\3\Geomtry\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.deps.json
+E:\github\3\Geomtry\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.dll
+E:\github\3\Geomtry\Geometry\Geometry\bin\Debug\netstandard2.0\Geometry.pdb
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.csprojAssemblyReference.cache
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.AssemblyInfoInputs.cache
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.AssemblyInfo.cs
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.csproj.CoreCompileInputs.cache
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.dll
+E:\github\3\Geomtry\Geometry\Geometry\obj\Debug\netstandard2.0\Geometry.pdb
